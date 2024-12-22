@@ -1,18 +1,17 @@
 class NumArray {
-    private int st[]; 
+    private int st[];
+    private int n; 
     public NumArray(int[] nums) {
-        int n=nums.length;
+        n=nums.length;
         st=new int[4*n];
         build(0,0,n-1,nums);
     }
     
     public void update(int index, int val) {
-        int n=st.length/4;
         up(0,0,n-1,index,val);
     }
     
     public int sumRange(int left, int right) {
-        int n=st.length/4;
         return query(0,0,n-1,left,right);
     }
 
@@ -38,7 +37,7 @@ class NumArray {
     }
 
     public void up(int i,int low,int high,int idx,int val){
-        if(low==high && idx==low){
+        if(low==high){
             st[i]=val;
             return;
         }
