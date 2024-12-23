@@ -51,7 +51,4 @@ class Solution {
         }
         return count;
     }
-    public void swap(Pair arr[],int i,int j){
-        
-    }
 }
