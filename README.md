@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +72,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
