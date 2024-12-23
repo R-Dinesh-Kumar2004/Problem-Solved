@@ -42,7 +42,9 @@ class Solution {
             for(int i=0;i<n;i++){
                 if(arr[i].idx!=i){
                     count++;
-                    swap(arr,i,arr[i].idx);
+                    Pair t=arr[i];
+                    arr[i]=arr[t.idx];
+                    arr[t.idx]=t;
                     i--;
                 }
             }
@@ -50,8 +52,6 @@ class Solution {
         return count;
     }
     public void swap(Pair arr[],int i,int j){
-        Pair t=arr[i];
-        arr[i]=arr[j];
-        arr[j]=t;
+        
     }
 }
