@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +84,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
