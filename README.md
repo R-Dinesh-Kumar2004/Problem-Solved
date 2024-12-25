@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
@@ -106,9 +107,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
