@@ -1,6 +1,9 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int max=Arrays.stream(piles).max().getAsInt();
+        int max=0;
+        for(int i:piles){
+            if(i>max)max=i;
+        }
         int ans=-1;
         int low=1,high=max;
         while(low<=high){
