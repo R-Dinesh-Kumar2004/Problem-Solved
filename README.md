@@ -106,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
