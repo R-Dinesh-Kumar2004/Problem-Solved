@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
@@ -170,6 +172,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
