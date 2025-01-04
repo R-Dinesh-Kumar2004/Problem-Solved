@@ -85,6 +85,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -125,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
+| [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -137,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
 | ------- |
