@@ -17,11 +17,15 @@ class Solution {
         return count;
     }
     public static int countU(String str,int s,int e){
-        Set<Character> set = new HashSet<>();
-
+        int freq[] = new int[26];
+        int count=0;
         for(int i=s;i<=e;i++){
-            set.add(str.charAt(i));
+            char c=str.charAt(i);
+            if(freq[c-'a']==0){
+                count++;
+                freq[c-'a']=1;
+            }
         }
-        return set.size();
+        return count;
     }
 }
