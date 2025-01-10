@@ -86,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -144,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0907-koko-eating-bananas](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 ## Greedy
@@ -159,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +190,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
