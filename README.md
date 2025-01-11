@@ -91,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
@@ -136,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
+| [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
+| [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,4 +215,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
