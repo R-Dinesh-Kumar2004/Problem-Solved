@@ -11,7 +11,7 @@ class Solution {
             if(w<(c-o)) return false;
         }
         w=o=c=0;
-        System.out.print("hi");
+        // System.out.print("hi");
         for(int i=n-1;i>=0;i--){
             if(locked.charAt(i)=='0') w++;
             else if(s.charAt(i)=='(') o++;
