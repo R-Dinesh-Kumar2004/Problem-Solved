@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting Sort
 |  |
 | ------- |
