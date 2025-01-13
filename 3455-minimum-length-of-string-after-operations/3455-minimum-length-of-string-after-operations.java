@@ -6,10 +6,9 @@ class Solution {
         }
         int count=0;
         for(int i:freq){
-           while(i>=3){
-            i-=2;
-           }
-           count+=i;
+           if(i==0) continue;
+           else if(i%2==0) count+=2;
+           else count+=1;
         }
         return count;
     }
