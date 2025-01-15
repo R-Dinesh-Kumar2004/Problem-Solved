@@ -165,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Geometry
 |  |
