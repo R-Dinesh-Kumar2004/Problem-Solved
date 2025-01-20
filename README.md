@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -99,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2792-neighboring-bitwise-xor) |
@@ -178,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 ## Dynamic Programming
 |  |
 | ------- |
