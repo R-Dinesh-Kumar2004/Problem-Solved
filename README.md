@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0038-count-and-say](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
+| [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -197,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0300-longest-increasing-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
