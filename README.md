@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
+| [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -135,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String
@@ -199,6 +202,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
+| [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
@@ -256,6 +260,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting Sort
@@ -270,4 +275,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
+| [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
