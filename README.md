@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
@@ -142,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
@@ -291,4 +293,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
