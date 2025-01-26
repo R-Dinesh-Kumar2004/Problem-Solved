@@ -2,12 +2,10 @@ class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adj = new ArrayList<>();
         for(int i=0;i<numCourses;i++) adj.add(new ArrayList<>());
+        int indegree[] = new int[numCourses];
         for(int it[]:prerequisites){
             adj.get(it[0]).add(it[1]);
-        }
-        int indegree[] = new int[numCourses];
-        for(List<Integer> l:adj){
-            for(int i:l) indegree[i]++;
+            indegree[it[1]]++;
         }
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<numCourses;i++){
