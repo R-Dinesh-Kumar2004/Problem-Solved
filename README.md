@@ -66,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
@@ -143,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
@@ -161,6 +163,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
