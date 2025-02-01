@@ -137,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2792-neighboring-bitwise-xor) |
+| [3429-special-array-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 ## Design
 |  |
