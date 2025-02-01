@@ -93,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0917-boats-to-save-people) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Array
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
