@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -362,6 +363,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
