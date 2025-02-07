@@ -116,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
@@ -171,10 +172,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
 ## Breadth-First Search
 |  |
@@ -248,6 +251,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0162-find-peak-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0907-koko-eating-bananas) |
@@ -270,6 +274,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Matrix
 |  |
 | ------- |
@@ -426,4 +431,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
