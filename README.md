@@ -157,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -288,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
 ## Divide and Conquer
 |  |
@@ -444,6 +446,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0744-network-delay-time](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2434-design-a-number-container-system) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
