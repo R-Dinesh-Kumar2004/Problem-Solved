@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1380-number-of-closed-islands) |
@@ -219,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
@@ -414,6 +416,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
@@ -436,6 +439,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0803-cheapest-flights-within-k-stops](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
