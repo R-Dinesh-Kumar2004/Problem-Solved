@@ -463,6 +463,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
