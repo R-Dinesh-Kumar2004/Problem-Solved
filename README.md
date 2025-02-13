@@ -85,6 +85,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2663-distribute-money-to-maximum-children](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2663-distribute-money-to-maximum-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
+| [2663-distribute-money-to-maximum-children](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2663-distribute-money-to-maximum-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
 |  |
