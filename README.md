@@ -165,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -381,6 +382,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
