@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2793-count-the-number-of-complete-components) |
@@ -254,6 +255,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -497,6 +499,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -514,6 +517,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
