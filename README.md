@@ -126,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0917-boats-to-save-people) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Design
@@ -363,6 +365,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
