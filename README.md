@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0971-shortest-bridge](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -81,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Recursion
@@ -285,6 +288,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
