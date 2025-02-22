@@ -32,12 +32,10 @@ class Solution {
                 depthCount++;
                 idx++;
             } 
-            StringBuffer sb = new StringBuffer();
-            while(idx<n && Character.isDigit(traversal.charAt(idx))){
-                sb.append(traversal.charAt(idx)); idx++;
+            int val = 0;
+            while(idx<n && traversal.charAt(idx) != '-'){
+                val = val*10 + traversal.charAt(idx)-'0'; idx++;
             }
-
-            int val = Integer.parseInt(sb.toString());
 
             if(st.isEmpty()){
                 st.push(new Pair(new TreeNode(val),depthCount));
