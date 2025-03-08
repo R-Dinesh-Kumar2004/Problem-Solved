@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -58,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0801-is-graph-bipartite) |
@@ -128,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
+| [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1160-letter-tile-possibilities) |
@@ -179,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
+| [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0854-making-a-large-island) |
 | [0879-maximize-distance-to-closest-person](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0879-maximize-distance-to-closest-person) |
@@ -279,6 +283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
