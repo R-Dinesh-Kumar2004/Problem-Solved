@@ -4,7 +4,7 @@ class Solution {
         int high = queries.length-1;
         int low = 0;
 
-        if(Arrays.equals(nums,new int[nums.length])) return 0;
+        if(isValid(queries,nums,-1)) return 0;
 
         while(low<=high){
             int mid = (low+high)/2;
@@ -28,8 +28,8 @@ class Solution {
         if(nums[0]>temp[0]) return false;
         int sum = temp[0];
         for(int i=1;i<n;i++){
-            temp[i] += temp[i-1];
-            if(temp[i]<nums[i]) return false;
+            sum += temp[i];
+            if(sum<nums[i]) return false;
             // System.out.print(sum+" ");
         }
         // System.out.println();
