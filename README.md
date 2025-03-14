@@ -107,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
+| [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -330,6 +331,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
+| [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -477,6 +479,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
