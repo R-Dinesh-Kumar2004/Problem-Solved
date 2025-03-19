@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1160-letter-tile-possibilities) |
+| [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1364-tuple-with-same-product) |
@@ -200,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
+| [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1325-path-with-maximum-probability) |
@@ -342,6 +344,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
+| [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
@@ -501,6 +504,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -515,6 +519,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2478-longest-nice-subarray) |
