@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -228,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2294-minimum-time-to-complete-trips](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
@@ -356,6 +358,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -596,6 +599,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -619,6 +623,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
