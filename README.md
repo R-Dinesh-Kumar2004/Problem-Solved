@@ -156,6 +156,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -366,6 +367,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -392,6 +394,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -430,6 +433,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
 | [2663-distribute-money-to-maximum-children](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2663-distribute-money-to-maximum-children) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
 |  |
@@ -551,6 +555,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting Sort
 |  |
@@ -643,6 +648,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
