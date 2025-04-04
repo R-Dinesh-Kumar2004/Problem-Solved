@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
@@ -54,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -90,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
