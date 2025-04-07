@@ -198,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0518-coin-change-ii) |
@@ -498,6 +499,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
