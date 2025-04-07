@@ -15,6 +15,7 @@ class Solution {
         if(dp[idx][sum] != null) return dp[idx][sum];
 
         boolean pick = rec(idx+1,nums,sum-nums[idx],n,dp);
+        if(pick) return true;
         boolean not =  rec(idx+1,nums,sum,n,dp);
 
         return dp[idx][sum] = (pick || not);
