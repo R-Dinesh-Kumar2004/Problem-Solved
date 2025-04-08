@@ -270,6 +270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2792-neighboring-bitwise-xor) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
@@ -513,6 +514,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2262-solving-questions-with-brainpower) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2893-visit-array-positions-to-maximize-score) |
 ## Memoization
 |  |
 | ------- |
