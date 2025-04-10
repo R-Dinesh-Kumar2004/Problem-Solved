@@ -123,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2610-closest-prime-numbers-in-range](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2649-count-total-number-of-colored-cells) |
 | [2663-distribute-money-to-maximum-children](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2663-distribute-money-to-maximum-children) |
@@ -516,6 +517,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2262-solving-questions-with-brainpower) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2893-visit-array-positions-to-maximize-score) |
 ## Memoization
 |  |
@@ -548,6 +550,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Prefix Sum
 |  |
 | ------- |
