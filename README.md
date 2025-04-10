@@ -190,6 +190,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0162-find-peak-element) |
@@ -448,6 +449,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
@@ -498,6 +500,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0198-house-robber) |
