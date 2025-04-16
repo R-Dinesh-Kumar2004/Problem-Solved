@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -86,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -166,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2434-design-a-number-container-system) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -267,6 +270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -363,6 +367,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -641,6 +646,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -671,6 +677,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
