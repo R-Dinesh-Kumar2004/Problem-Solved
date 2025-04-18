@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0917-boats-to-save-people) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
