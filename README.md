@@ -237,6 +237,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
+| [1206-corporate-flight-bookings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1206-corporate-flight-bookings) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
@@ -591,6 +592,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1206-corporate-flight-bookings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1206-corporate-flight-bookings) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
