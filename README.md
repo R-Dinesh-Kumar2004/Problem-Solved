@@ -269,6 +269,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -451,6 +452,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
+| [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -495,6 +497,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
