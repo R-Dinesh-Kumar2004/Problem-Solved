@@ -124,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0797-rabbits-in-forest](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0797-rabbits-in-forest) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -164,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
