@@ -6,14 +6,16 @@ class Solution {
         for(int i : nums){
             if(freq[i]++ == 0) uniq++;
         }
-        int ans = 0;
-        for(int i=0;i<n;i++){
-            int dist[] = new int[2001];
-            int count = 0;
-            for(int j=i;j<n;j++){
-                if(dist[nums[j]]++ == 0) count++;
-                if(count == uniq)ans++;
-                else if(count>uniq) break;
+        Arrays.fill(freq,0);
+
+        int ans = 0,left = 0,count = 0;
+        for(int right=0;right<n;right++){
+            if(freq[nums[right]]++ == 0) count++;
+
+            while(count == uniq){
+                ans += (n-right);
+                if(--freq[nums[left]] == 0) count--;
+                left++;
             }
         }
         return ans;
