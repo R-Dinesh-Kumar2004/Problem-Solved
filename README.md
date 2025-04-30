@@ -130,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -424,6 +425,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
