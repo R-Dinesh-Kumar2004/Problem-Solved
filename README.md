@@ -180,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -434,6 +435,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2414-move-pieces-to-obtain-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
+| [2487-optimal-partition-of-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -515,6 +517,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
+| [2487-optimal-partition-of-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
 | [2663-distribute-money-to-maximum-children](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2663-distribute-money-to-maximum-children) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
