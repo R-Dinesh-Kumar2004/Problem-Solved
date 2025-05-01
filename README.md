@@ -279,6 +279,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2249-count-the-hidden-sequences) |
@@ -472,6 +473,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -495,6 +497,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2294-minimum-time-to-complete-trips) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -517,6 +520,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
@@ -801,6 +805,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
 |  |
@@ -808,4 +813,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1656-count-good-triplets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2998-count-symmetric-integers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
