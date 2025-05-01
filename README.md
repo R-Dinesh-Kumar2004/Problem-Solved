@@ -424,6 +424,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -467,6 +468,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
