@@ -583,6 +583,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0868-push-dominoes) |
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
