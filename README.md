@@ -277,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1927-maximum-ascending-subarray-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
@@ -615,6 +616,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
