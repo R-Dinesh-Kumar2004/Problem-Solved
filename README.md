@@ -142,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
@@ -328,6 +329,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3429-special-array-i) |
@@ -497,6 +499,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2379-maximum-total-importance-of-roads](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
