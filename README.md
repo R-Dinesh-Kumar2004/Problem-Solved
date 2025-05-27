@@ -141,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2663-distribute-money-to-maximum-children](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2663-distribute-money-to-maximum-children) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
