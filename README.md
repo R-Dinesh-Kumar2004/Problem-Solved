@@ -159,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
+| [0740-delete-and-earn](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -244,6 +245,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
+| [0740-delete-and-earn](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0740-delete-and-earn) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0854-making-a-large-island) |
@@ -613,6 +615,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0518-coin-change-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
+| [0740-delete-and-earn](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0868-push-dominoes) |
