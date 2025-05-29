@@ -116,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
