@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -156,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
@@ -368,6 +370,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0937-online-stock-span) |
@@ -899,4 +902,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
