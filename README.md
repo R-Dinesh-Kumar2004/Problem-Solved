@@ -580,6 +580,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
@@ -651,6 +652,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0300-longest-increasing-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
+| [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0518-coin-change-ii) |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
@@ -732,6 +735,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
