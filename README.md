@@ -115,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0206-reverse-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
@@ -711,6 +713,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -749,6 +752,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Geometry
 |  |
 | ------- |
