@@ -139,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2610-closest-prime-numbers-in-range](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2610-closest-prime-numbers-in-range) |
@@ -338,6 +339,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
