@@ -472,6 +472,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0868-push-dominoes) |
@@ -668,6 +669,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
