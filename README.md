@@ -58,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -249,6 +250,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0135-candy](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0239-sliding-window-maximum) |
@@ -419,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
@@ -638,6 +641,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0498-diagonal-traverse) |
@@ -805,6 +809,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0794-swim-in-rising-water) |
