@@ -472,6 +472,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0008-string-to-integer-atoi](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0165-compare-version-numbers) |
@@ -670,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0213-house-robber-ii) |
