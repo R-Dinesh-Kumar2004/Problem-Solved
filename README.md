@@ -346,6 +346,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2344-escape-the-spreading-fire](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2344-escape-the-spreading-fire) |
 | [2358-number-of-ways-to-split-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -455,6 +456,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
+| [2344-escape-the-spreading-fire](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2439-longest-cycle-in-a-graph) |
@@ -596,6 +598,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2280-count-good-triplets-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2344-escape-the-spreading-fire](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2344-escape-the-spreading-fire) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -662,6 +665,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
+| [2344-escape-the-spreading-fire](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
