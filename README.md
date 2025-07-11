@@ -484,6 +484,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0072-edit-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
@@ -688,6 +689,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
