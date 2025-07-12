@@ -113,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
@@ -483,6 +484,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0008-string-to-integer-atoi](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0091-decode-ways) |
@@ -616,6 +618,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0334-increasing-triplet-subsequence) |
@@ -688,6 +691,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0072-edit-distance) |
