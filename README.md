@@ -182,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1169-largest-values-from-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1169-largest-values-from-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1238-alphabet-board-path](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1238-alphabet-board-path) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
@@ -512,6 +513,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1160-letter-tile-possibilities) |
+| [1238-alphabet-board-path](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1238-alphabet-board-path) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
