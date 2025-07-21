@@ -518,6 +518,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1238-alphabet-board-path](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1238-alphabet-board-path) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1308-smallest-string-with-swaps) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
