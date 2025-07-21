@@ -382,6 +382,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2792-neighboring-bitwise-xor) |
+| [2808-painting-the-walls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2808-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -751,6 +752,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2262-solving-questions-with-brainpower](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2808-painting-the-walls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2808-painting-the-walls) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
