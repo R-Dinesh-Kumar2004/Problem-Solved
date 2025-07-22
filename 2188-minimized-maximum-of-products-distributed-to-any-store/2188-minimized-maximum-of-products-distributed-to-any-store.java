@@ -22,8 +22,10 @@ class Solution {
 
         for(int val : quantities){
             count += Math.ceil((double)val/distribute);
+            
+            if(count > n) return false;
         }
 
-        return count <= n;
+        return true;
     }
 }
