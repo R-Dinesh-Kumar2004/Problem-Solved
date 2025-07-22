@@ -114,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
@@ -497,6 +498,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
@@ -714,6 +716,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
