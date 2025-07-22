@@ -347,6 +347,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -630,6 +631,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -662,6 +664,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2329-maximum-product-after-k-increments](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2329-maximum-product-after-k-increments) |
