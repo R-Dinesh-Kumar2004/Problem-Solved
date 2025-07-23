@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0937-online-stock-span) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -533,6 +534,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -660,6 +662,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
 | [1961-maximum-ice-cream-bars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
