@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
@@ -481,6 +482,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
@@ -920,6 +922,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
@@ -950,6 +953,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0820-find-eventual-safe-states) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
