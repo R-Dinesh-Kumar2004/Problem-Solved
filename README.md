@@ -230,6 +230,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -417,6 +418,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Design
 |  |
@@ -689,6 +691,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
