@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0937-online-stock-span) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1552-build-an-array-with-stack-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -329,6 +330,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1539-diagonal-traverse-ii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -806,6 +808,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0498-diagonal-traverse](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
+| [1552-build-an-array-with-stack-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
