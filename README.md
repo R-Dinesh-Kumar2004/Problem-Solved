@@ -420,6 +420,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Design
@@ -732,6 +733,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -784,6 +786,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
@@ -859,6 +862,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2792-neighboring-bitwise-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Geometry
 |  |
 | ------- |
