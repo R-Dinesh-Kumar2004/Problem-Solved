@@ -169,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
@@ -267,6 +268,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0198-house-robber) |
@@ -523,6 +525,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0115-distinct-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
@@ -753,6 +756,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0213-house-robber-ii) |
@@ -799,6 +803,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
@@ -1068,4 +1073,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
