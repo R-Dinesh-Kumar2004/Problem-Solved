@@ -352,6 +352,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -805,6 +806,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
@@ -854,6 +856,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2509-minimize-xor) |
@@ -1045,6 +1048,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1656-count-good-triplets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
