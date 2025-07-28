@@ -520,6 +520,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0091-decode-ways](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
@@ -747,6 +748,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0115-distinct-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0213-house-robber-ii) |
