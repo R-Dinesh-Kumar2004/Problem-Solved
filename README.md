@@ -181,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0355-design-twitter) |
+| [0433-minimum-genetic-mutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
@@ -473,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
+| [0433-minimum-genetic-mutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
@@ -538,6 +540,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
+| [0433-minimum-genetic-mutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
