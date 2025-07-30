@@ -165,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -989,6 +990,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3729-unit-conversion-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3729-unit-conversion-i) |
 ## Topological Sort
 |  |
@@ -1028,6 +1030,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1041,6 +1044,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1068,6 +1072,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2610-closest-prime-numbers-in-range) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Queue
 |  |
 | ------- |
