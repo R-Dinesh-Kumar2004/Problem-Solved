@@ -138,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
+| [0556-next-greater-element-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0797-rabbits-in-forest) |
 | [1094-matrix-cells-in-distance-order](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1094-matrix-cells-in-distance-order) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -250,6 +251,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0165-compare-version-numbers) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0868-push-dominoes) |
@@ -547,6 +549,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0433-minimum-genetic-mutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
+| [0556-next-greater-element-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0556-next-greater-element-iii) |
 | [0768-partition-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0868-push-dominoes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
