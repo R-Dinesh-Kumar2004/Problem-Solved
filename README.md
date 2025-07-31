@@ -316,6 +316,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0907-koko-eating-bananas](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0971-shortest-bridge](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1032-satisfiability-of-equality-equations) |
@@ -799,6 +800,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0803-cheapest-flights-within-k-stops](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
@@ -886,6 +888,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
