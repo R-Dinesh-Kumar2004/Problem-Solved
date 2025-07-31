@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0937-online-stock-span) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1552-build-an-array-with-stack-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1552-build-an-array-with-stack-operations) |
@@ -295,6 +296,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
@@ -1062,6 +1064,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
