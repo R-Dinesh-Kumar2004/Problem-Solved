@@ -188,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0355-design-twitter) |
 | [0433-minimum-genetic-mutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0433-minimum-genetic-mutation) |
+| [0491-non-decreasing-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
@@ -300,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
+| [0491-non-decreasing-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0503-next-greater-element-ii) |
@@ -845,6 +847,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0077-combinations) |
 | [0140-word-break-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0140-word-break-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -898,6 +901,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1281-can-make-palindrome-from-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
