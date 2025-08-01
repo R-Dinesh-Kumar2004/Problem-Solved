@@ -273,6 +273,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
@@ -774,6 +775,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
