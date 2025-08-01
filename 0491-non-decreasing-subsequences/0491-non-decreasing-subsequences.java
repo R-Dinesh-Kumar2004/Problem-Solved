@@ -6,10 +6,11 @@ class Solution {
         return new ArrayList<>(ans);
     }
     public void helper(int idx,int nums[],List<Integer> list){
-        if(list.size() >= 2){
-            ans.add(new ArrayList<>(list));
+        if(idx == nums.length){
+            if(list.size() >= 2)
+                ans.add(new ArrayList<>(list));
+            return;
         }
-        if(idx == nums.length) return;
         
         if(list.size() == 0 || list.get(list.size()-1) <= nums[idx]){
             list.add(nums[idx]);
