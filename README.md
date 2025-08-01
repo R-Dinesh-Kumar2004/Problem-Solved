@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -73,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0744-network-delay-time) |
@@ -113,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -486,6 +489,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0744-network-delay-time) |
