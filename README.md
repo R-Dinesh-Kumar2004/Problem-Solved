@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0419-battleships-in-a-board) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
@@ -458,6 +459,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0937-online-stock-span) |
@@ -557,6 +559,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0140-word-break-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
@@ -1136,4 +1139,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
