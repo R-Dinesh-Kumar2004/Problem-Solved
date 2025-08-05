@@ -33,18 +33,18 @@ class WordDictionary {
             return node.isEnd;
         }
         boolean ans = false;
-        char ch = word.charAt(idx);
+        char c = word.charAt(idx);
 
-        if(ch == '.'){
-            for(char c='a';c<='z';c++){
-                if(node.child[c-'a'] == null) continue;
-                ans = ans | helper(idx+1,word,node.child[c-'a']);
+        if(c == '.'){
+            for(char i=0;i<26;i++){
+                if(node.child[i] == null) continue;
+                ans = ans | helper(idx+1,word,node.child[i]);
             }
         }
         else{
-            if(node.child[ch-'a'] == null) return false;
+            if(node.child[c-'a'] == null) return false;
             else{
-                ans = ans | helper(idx+1,word,node.child[ch-'a']);
+                ans = ans | helper(idx+1,word,node.child[c-'a']);
             }
         }
         return ans;
