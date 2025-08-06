@@ -453,6 +453,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Design
 |  |
@@ -486,6 +487,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1294-range-frequency-queries](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1294-range-frequency-queries) |
 | [2280-count-good-triplets-in-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -701,6 +703,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -1093,6 +1096,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2334-number-of-flowers-in-full-bloom](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
