@@ -130,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0010-regular-expression-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -139,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0007-reverse-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
@@ -925,6 +927,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
