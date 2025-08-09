@@ -161,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -227,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2104-operations-on-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -880,6 +882,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
@@ -964,6 +967,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1534-minimum-number-of-frogs-croaking](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1143,6 +1147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1656-count-good-triplets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
