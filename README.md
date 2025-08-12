@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0445-add-two-numbers-ii) |
@@ -46,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -115,6 +117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -474,6 +477,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0146-lru-cache](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0355-design-twitter) |
@@ -1175,4 +1179,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
