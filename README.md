@@ -260,6 +260,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -460,6 +461,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3429-special-array-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -871,6 +873,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2893-visit-array-positions-to-maximize-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
