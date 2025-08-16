@@ -160,6 +160,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1303-minimum-moves-to-reach-target-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -750,6 +751,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1169-largest-values-from-labels](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1169-largest-values-from-labels) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1448-maximum-69-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1530-check-if-a-string-can-break-another-string) |
