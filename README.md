@@ -367,6 +367,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1364-tuple-with-same-product](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -804,6 +805,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
@@ -861,6 +863,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1025-minimum-cost-for-tickets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
