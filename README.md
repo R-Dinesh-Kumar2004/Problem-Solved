@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0007-reverse-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0279-perfect-squares) |
@@ -295,6 +296,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0018-4sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0088-merge-sorted-array) |
