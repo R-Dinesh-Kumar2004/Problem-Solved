@@ -466,6 +466,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -816,6 +817,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
