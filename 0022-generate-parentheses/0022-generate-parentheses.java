@@ -5,7 +5,7 @@ class Solution {
         return ans;
     }
     public void helper(String s,int open,int close,List<String> ans,int n){
-        if(open == close && (open+close) == 2*n){
+        if((open+close) == 2*n){
             ans.add(s);
             return;
         }
