@@ -480,6 +480,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3748-sort-matrix-by-diagonals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
@@ -707,6 +708,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
+| [3748-sort-matrix-by-diagonals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -826,6 +828,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3748-sort-matrix-by-diagonals](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
