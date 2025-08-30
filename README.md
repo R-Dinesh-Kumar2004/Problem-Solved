@@ -193,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -296,6 +297,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0018-4sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -796,6 +798,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
