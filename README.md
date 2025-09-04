@@ -191,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3830-find-closest-person](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
