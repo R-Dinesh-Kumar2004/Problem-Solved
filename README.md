@@ -280,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0018-4sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0142-linked-list-cycle-ii) |
@@ -303,6 +304,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0018-4sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0066-plus-one) |
