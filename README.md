@@ -307,6 +307,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0031-next-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
@@ -814,6 +815,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0130-surrounded-regions) |
@@ -941,6 +943,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [1552-build-an-array-with-stack-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1552-build-an-array-with-stack-operations) |
