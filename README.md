@@ -168,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -947,6 +948,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0498-diagonal-traverse](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0537-complex-number-multiplication) |
 | [1552-build-an-array-with-stack-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1552-build-an-array-with-stack-operations) |
+| [1642-water-bottles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
