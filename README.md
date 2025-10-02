@@ -192,6 +192,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -956,6 +957,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
