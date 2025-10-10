@@ -488,6 +488,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1001,6 +1002,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
