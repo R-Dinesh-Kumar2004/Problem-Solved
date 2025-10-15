@@ -501,6 +501,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -774,6 +775,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
