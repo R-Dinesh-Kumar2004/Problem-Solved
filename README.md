@@ -1266,4 +1266,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
