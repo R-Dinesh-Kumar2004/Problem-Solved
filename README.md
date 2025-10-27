@@ -179,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2050-count-good-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2050-count-good-numbers) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -437,6 +438,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2262-solving-questions-with-brainpower) |
@@ -669,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2107-find-unique-binary-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -864,6 +867,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1876-map-of-highest-peak](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2344-escape-the-spreading-fire](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2685-first-completely-painted-row-or-column) |
