@@ -196,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3279-alice-and-bob-playing-flower-game](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -280,6 +281,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3455-minimum-length-of-string-after-operations](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -507,6 +509,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
