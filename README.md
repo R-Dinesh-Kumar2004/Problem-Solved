@@ -422,6 +422,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1675-magnetic-force-between-two-balls) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1813-maximum-erasure-value](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1813-maximum-erasure-value) |
@@ -681,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1534-minimum-number-of-frogs-croaking](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -830,6 +832,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1502-construct-k-palindrome-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
@@ -952,6 +955,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/2262-solving-questions-with-brainpower) |
