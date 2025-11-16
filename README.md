@@ -176,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1879-maximum-score-from-removing-stones](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1879-maximum-score-from-removing-stones) |
@@ -684,6 +685,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1534-minimum-number-of-frogs-croaking](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/R-Dinesh-Kumar2004/Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
